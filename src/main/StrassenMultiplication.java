@@ -34,7 +34,7 @@ public class StrassenMultiplication {
 	public static void main(String... theArgs) {
 		
 		//the size of the array MUST BE POW 2
-		int size = 16;
+		int size = 64;
 		
 		//create the matrices
 		int[][] matrix1 = generateMatrix(size);
